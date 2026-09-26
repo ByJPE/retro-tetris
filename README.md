@@ -3,6 +3,7 @@
 Clone de Tetris en HTML/CSS/JS pur, sans dépendance, avec esthétique terminal rétro (années 70/80) : scanlines CRT, glow phosphore, châssis d'écran, police pixel.
 
 Jouable sur ordinateur (clavier) et sur smartphone (boutons tactiles + swipe).
+pour jouer: https://iawrite2jeremypetit.github.io/retro-tetris/
 
 ## Menu et difficulté
 
